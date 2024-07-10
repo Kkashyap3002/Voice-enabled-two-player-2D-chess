@@ -1,4 +1,4 @@
-# Voice-enabled chess
+# Voice-enabled-two-player-2D-chess
 GDSC Project submission
 
  <p align = "justify">Voice-Controlled Chess is a chess engine which works on the basis of voice commands given by the user. It is a single player game in which the other player is the computer which makes its move with minimax and Alpha-Beta pruning algorithms. </p>
