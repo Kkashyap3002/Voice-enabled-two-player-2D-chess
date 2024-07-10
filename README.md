@@ -49,4 +49,5 @@ To install PyAudio, follow these commands:
 4.	Also, download rulebook.pdf from data which will let you know about the special keys.
 5.	Run gui.py and click the mouse button to pay your game. 
 
-## Author: Kishan Kashyap ,Ayush Kumar ,Gaurav Kodopi ,Dhiraj Kumar
+## Author:
+Kishan Kashyap ,Ayush Kumar ,Gaurav Kodopi ,Dhiraj Kumar
